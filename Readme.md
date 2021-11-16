@@ -1,10 +1,11 @@
 Assignment 1 CMPE 283
+========================================
 
 Team Memebers:
 
 Venkata Prithvi Raj Namburi (015944994)
-
 Hema Aishwarya Talluri (015948816)
+
 ==========================================
 
 Work Implemented by each member
