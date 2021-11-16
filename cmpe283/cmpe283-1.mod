@@ -1,2 +1,2 @@
-/home/prithvi/cmpe283-1.o
+/home/prithvi/linux/cmpe283/cmpe283-1.o
 
