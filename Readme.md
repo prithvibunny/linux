@@ -1,6 +1,5 @@
 Assignment 1 CMPE 283
 ========================================
-
 Team Memebers:
 
 Venkata Prithvi Raj Namburi (015944994)
