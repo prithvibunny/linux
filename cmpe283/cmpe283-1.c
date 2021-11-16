@@ -1,7 +1,7 @@
 /*  
  *  cmpe283-1.c - Kernel module for CMPE283 assignment 1
  */
-..#include <linux/module.h>	/* Needed by all modules */
+#include <linux/module.h>	/* Needed by all modules */
 #include <linux/kernel.h>	/* Needed for KERN_INFO */
 #include <asm/msr.h>
 
