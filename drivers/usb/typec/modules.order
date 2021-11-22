@@ -1,0 +1,17 @@
+drivers/usb/typec/typec.ko
+drivers/usb/typec/altmodes/typec_displayport.ko
+drivers/usb/typec/altmodes/typec_nvidia.ko
+drivers/usb/typec/tcpm/tcpm.ko
+drivers/usb/typec/tcpm/fusb302.ko
+drivers/usb/typec/tcpm/tcpci.ko
+drivers/usb/typec/tcpm/tcpci_rt1711h.ko
+drivers/usb/typec/tcpm/tcpci_mt6360.ko
+drivers/usb/typec/tcpm/tcpci_maxim.ko
+drivers/usb/typec/ucsi/typec_ucsi.ko
+drivers/usb/typec/ucsi/ucsi_acpi.ko
+drivers/usb/typec/ucsi/ucsi_ccg.ko
+drivers/usb/typec/tipd/tps6598x.ko
+drivers/usb/typec/hd3ss3220.ko
+drivers/usb/typec/stusb160x.ko
+drivers/usb/typec/mux/pi3usb30532.ko
+drivers/usb/typec/mux/intel_pmc_mux.ko

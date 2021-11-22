@@ -1,0 +1,3 @@
+drivers/video/fbdev/aty/atyfb.ko
+drivers/video/fbdev/aty/aty128fb.ko
+drivers/video/fbdev/aty/radeonfb.ko

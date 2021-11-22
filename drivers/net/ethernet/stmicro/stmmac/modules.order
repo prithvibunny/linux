@@ -1,0 +1,5 @@
+drivers/net/ethernet/stmicro/stmmac/stmmac.ko
+drivers/net/ethernet/stmicro/stmmac/stmmac-platform.ko
+drivers/net/ethernet/stmicro/stmmac/dwmac-generic.ko
+drivers/net/ethernet/stmicro/stmmac/stmmac-pci.ko
+drivers/net/ethernet/stmicro/stmmac/dwmac-intel.ko

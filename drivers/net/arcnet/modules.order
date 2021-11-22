@@ -1,0 +1,11 @@
+drivers/net/arcnet/arcnet.ko
+drivers/net/arcnet/rfc1201.ko
+drivers/net/arcnet/rfc1051.ko
+drivers/net/arcnet/arc-rawmode.ko
+drivers/net/arcnet/capmode.ko
+drivers/net/arcnet/com90xx.ko
+drivers/net/arcnet/com90io.ko
+drivers/net/arcnet/arc-rimi.ko
+drivers/net/arcnet/com20020.ko
+drivers/net/arcnet/com20020-pci.ko
+drivers/net/arcnet/com20020_cs.ko

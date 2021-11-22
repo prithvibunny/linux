@@ -1,0 +1,3 @@
+drivers/pci/controller/pci-hyperv.ko
+drivers/pci/controller/pci-hyperv-intf.ko
+drivers/pci/controller/vmd.ko

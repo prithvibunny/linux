@@ -1,0 +1,3 @@
+drivers/mcb/mcb.ko
+drivers/mcb/mcb-pci.ko
+drivers/mcb/mcb-lpc.ko

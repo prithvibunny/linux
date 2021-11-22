@@ -1,0 +1,5 @@
+drivers/net/ethernet/3com/3c509.ko
+drivers/net/ethernet/3com/3c589_cs.ko
+drivers/net/ethernet/3com/3c574_cs.ko
+drivers/net/ethernet/3com/3c59x.ko
+drivers/net/ethernet/3com/typhoon.ko

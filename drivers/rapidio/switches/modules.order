@@ -1,0 +1,5 @@
+drivers/rapidio/switches/tsi57x.ko
+drivers/rapidio/switches/idtcps.ko
+drivers/rapidio/switches/tsi568.ko
+drivers/rapidio/switches/idt_gen2.ko
+drivers/rapidio/switches/idt_gen3.ko

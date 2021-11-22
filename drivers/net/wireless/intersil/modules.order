@@ -1,0 +1,15 @@
+drivers/net/wireless/intersil/hostap/hostap.ko
+drivers/net/wireless/intersil/hostap/hostap_cs.ko
+drivers/net/wireless/intersil/hostap/hostap_plx.ko
+drivers/net/wireless/intersil/hostap/hostap_pci.ko
+drivers/net/wireless/intersil/orinoco/orinoco.ko
+drivers/net/wireless/intersil/orinoco/orinoco_cs.ko
+drivers/net/wireless/intersil/orinoco/orinoco_plx.ko
+drivers/net/wireless/intersil/orinoco/orinoco_tmd.ko
+drivers/net/wireless/intersil/orinoco/orinoco_nortel.ko
+drivers/net/wireless/intersil/orinoco/spectrum_cs.ko
+drivers/net/wireless/intersil/orinoco/orinoco_usb.ko
+drivers/net/wireless/intersil/p54/p54common.ko
+drivers/net/wireless/intersil/p54/p54usb.ko
+drivers/net/wireless/intersil/p54/p54pci.ko
+drivers/net/wireless/intersil/p54/p54spi.ko

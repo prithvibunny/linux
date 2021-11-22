@@ -1,0 +1,6 @@
+drivers/ptp/ptp_ines.ko
+drivers/ptp/ptp_kvm.ko
+drivers/ptp/ptp_clockmatrix.ko
+drivers/ptp/ptp_idt82p33.ko
+drivers/ptp/ptp_vmw.ko
+drivers/ptp/ptp_ocp.ko

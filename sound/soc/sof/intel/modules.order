@@ -1,0 +1,10 @@
+sound/soc/sof/intel/snd-sof-intel-atom.ko
+sound/soc/sof/intel/snd-sof-acpi-intel-byt.ko
+sound/soc/sof/intel/snd-sof-acpi-intel-bdw.ko
+sound/soc/sof/intel/snd-sof-intel-hda-common.ko
+sound/soc/sof/intel/snd-sof-intel-hda.ko
+sound/soc/sof/intel/snd-sof-pci-intel-tng.ko
+sound/soc/sof/intel/snd-sof-pci-intel-apl.ko
+sound/soc/sof/intel/snd-sof-pci-intel-cnl.ko
+sound/soc/sof/intel/snd-sof-pci-intel-icl.ko
+sound/soc/sof/intel/snd-sof-pci-intel-tgl.ko

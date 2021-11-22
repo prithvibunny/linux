@@ -1,0 +1,6 @@
+drivers/pcmcia/pcmcia_core.ko
+drivers/pcmcia/pcmcia.ko
+drivers/pcmcia/pcmcia_rsrc.ko
+drivers/pcmcia/yenta_socket.ko
+drivers/pcmcia/pd6729.ko
+drivers/pcmcia/i82092.ko

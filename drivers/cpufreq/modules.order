@@ -1,0 +1,3 @@
+drivers/cpufreq/speedstep-lib.ko
+drivers/cpufreq/p4-clockmod.ko
+drivers/cpufreq/amd_freq_sensitivity.ko

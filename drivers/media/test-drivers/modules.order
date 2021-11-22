@@ -1,0 +1,4 @@
+drivers/media/test-drivers/vimc/vimc.ko
+drivers/media/test-drivers/vivid/vivid.ko
+drivers/media/test-drivers/vim2m.ko
+drivers/media/test-drivers/vicodec/vicodec.ko

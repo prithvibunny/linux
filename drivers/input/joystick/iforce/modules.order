@@ -1,0 +1,3 @@
+drivers/input/joystick/iforce/iforce.ko
+drivers/input/joystick/iforce/iforce-serio.ko
+drivers/input/joystick/iforce/iforce-usb.ko

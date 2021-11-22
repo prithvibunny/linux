@@ -1,0 +1,3 @@
+drivers/platform/x86/intel/pmt/pmt_class.ko
+drivers/platform/x86/intel/pmt/pmt_telemetry.ko
+drivers/platform/x86/intel/pmt/pmt_crashlog.ko

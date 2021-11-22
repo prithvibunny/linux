@@ -1,0 +1,3 @@
+drivers/ntb/hw/idt/ntb_hw_idt.ko
+drivers/ntb/hw/intel/ntb_hw_intel.ko
+drivers/ntb/hw/mscc/ntb_hw_switchtec.ko

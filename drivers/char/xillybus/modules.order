@@ -1,0 +1,3 @@
+drivers/char/xillybus/xillybus_class.ko
+drivers/char/xillybus/xillybus_core.ko
+drivers/char/xillybus/xillybus_pcie.ko

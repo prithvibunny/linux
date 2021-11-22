@@ -1,0 +1,7 @@
+drivers/pwm/pwm-cros-ec.ko
+drivers/pwm/pwm-dwc.ko
+drivers/pwm/pwm-iqs620a.ko
+drivers/pwm/pwm-lp3943.ko
+drivers/pwm/pwm-pca9685.ko
+drivers/pwm/pwm-twl.ko
+drivers/pwm/pwm-twl-led.ko

@@ -1,0 +1,11 @@
+drivers/input/serio/parkbd.ko
+drivers/input/serio/serport.ko
+drivers/input/serio/ct82c710.ko
+drivers/input/serio/pcips2.ko
+drivers/input/serio/ps2mult.ko
+drivers/input/serio/serio_raw.ko
+drivers/input/serio/altera_ps2.ko
+drivers/input/serio/arc_ps2.ko
+drivers/input/serio/hyperv-keyboard.ko
+drivers/input/serio/ps2-gpio.ko
+drivers/input/serio/userio.ko

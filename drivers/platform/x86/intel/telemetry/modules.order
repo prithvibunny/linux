@@ -1,0 +1,3 @@
+drivers/platform/x86/intel/telemetry/intel_telemetry_core.ko
+drivers/platform/x86/intel/telemetry/intel_telemetry_pltdrv.ko
+drivers/platform/x86/intel/telemetry/intel_telemetry_debugfs.ko

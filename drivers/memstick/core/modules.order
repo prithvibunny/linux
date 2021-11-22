@@ -1,0 +1,3 @@
+drivers/memstick/core/memstick.ko
+drivers/memstick/core/ms_block.ko
+drivers/memstick/core/mspro_block.ko

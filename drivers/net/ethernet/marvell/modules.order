@@ -1,0 +1,5 @@
+drivers/net/ethernet/marvell/prestera/prestera.ko
+drivers/net/ethernet/marvell/prestera/prestera_pci.ko
+drivers/net/ethernet/marvell/mvmdio.ko
+drivers/net/ethernet/marvell/skge.ko
+drivers/net/ethernet/marvell/sky2.ko

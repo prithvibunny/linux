@@ -1,0 +1,3 @@
+drivers/ntb/test/ntb_pingpong.ko
+drivers/ntb/test/ntb_tool.ko
+drivers/ntb/test/ntb_perf.ko

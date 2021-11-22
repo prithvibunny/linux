@@ -1,0 +1,3 @@
+drivers/infiniband/sw/rdmavt/rdmavt.ko
+drivers/infiniband/sw/rxe/rdma_rxe.ko
+drivers/infiniband/sw/siw/siw.ko

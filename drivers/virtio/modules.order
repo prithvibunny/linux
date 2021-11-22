@@ -1,0 +1,4 @@
+drivers/virtio/virtio_input.ko
+drivers/virtio/virtio_vdpa.ko
+drivers/virtio/virtio_mem.ko
+drivers/virtio/virtio_dma_buf.ko

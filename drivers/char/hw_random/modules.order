@@ -1,0 +1,7 @@
+drivers/char/hw_random/timeriomem-rng.ko
+drivers/char/hw_random/intel-rng.ko
+drivers/char/hw_random/amd-rng.ko
+drivers/char/hw_random/ba431-rng.ko
+drivers/char/hw_random/via-rng.ko
+drivers/char/hw_random/virtio-rng.ko
+drivers/char/hw_random/xiphera-trng.ko

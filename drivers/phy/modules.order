@@ -1,0 +1,10 @@
+drivers/phy/broadcom/phy-bcm-kona-usb2.ko
+drivers/phy/intel/phy-intel-lgm-emmc.ko
+drivers/phy/marvell/phy-pxa-28nm-hsic.ko
+drivers/phy/marvell/phy-pxa-28nm-usb2.ko
+drivers/phy/motorola/phy-cpcap-usb.ko
+drivers/phy/qualcomm/phy-qcom-usb-hs.ko
+drivers/phy/qualcomm/phy-qcom-usb-hsic.ko
+drivers/phy/samsung/phy-exynos-usb2.ko
+drivers/phy/ti/phy-tusb1210.ko
+drivers/phy/phy-lgm-usb.ko

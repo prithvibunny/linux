@@ -1,0 +1,3 @@
+sound/soc/intel/atom/sst/snd-intel-sst-core.ko
+sound/soc/intel/atom/sst/snd-intel-sst-pci.ko
+sound/soc/intel/atom/sst/snd-intel-sst-acpi.ko

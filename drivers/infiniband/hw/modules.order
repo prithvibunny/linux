@@ -1,0 +1,12 @@
+drivers/infiniband/hw/mthca/ib_mthca.ko
+drivers/infiniband/hw/qib/ib_qib.ko
+drivers/infiniband/hw/cxgb4/iw_cxgb4.ko
+drivers/infiniband/hw/efa/efa.ko
+drivers/infiniband/hw/mlx4/mlx4_ib.ko
+drivers/infiniband/hw/mlx5/mlx5_ib.ko
+drivers/infiniband/hw/ocrdma/ocrdma.ko
+drivers/infiniband/hw/vmw_pvrdma/vmw_pvrdma.ko
+drivers/infiniband/hw/usnic/usnic_verbs.ko
+drivers/infiniband/hw/hfi1/hfi1.ko
+drivers/infiniband/hw/qedr/qedr.ko
+drivers/infiniband/hw/bnxt_re/bnxt_re.ko

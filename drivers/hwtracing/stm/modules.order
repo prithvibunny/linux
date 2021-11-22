@@ -1,0 +1,7 @@
+drivers/hwtracing/stm/stm_core.ko
+drivers/hwtracing/stm/stm_p_basic.ko
+drivers/hwtracing/stm/stm_p_sys-t.ko
+drivers/hwtracing/stm/dummy_stm.ko
+drivers/hwtracing/stm/stm_console.ko
+drivers/hwtracing/stm/stm_heartbeat.ko
+drivers/hwtracing/stm/stm_ftrace.ko

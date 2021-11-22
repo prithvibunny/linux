@@ -1,0 +1,3 @@
+sound/soc/xilinx/snd-soc-xlnx-i2s.ko
+sound/soc/xilinx/snd-soc-xlnx-formatter-pcm.ko
+sound/soc/xilinx/snd-soc-xlnx-spdif.ko

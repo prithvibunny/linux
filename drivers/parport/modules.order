@@ -1,0 +1,5 @@
+drivers/parport/parport.ko
+drivers/parport/parport_pc.ko
+drivers/parport/parport_serial.ko
+drivers/parport/parport_cs.ko
+drivers/parport/parport_ax88796.ko

@@ -1,0 +1,4 @@
+drivers/net/ethernet/8390/ne2k-pci.ko
+drivers/net/ethernet/8390/8390.ko
+drivers/net/ethernet/8390/axnet_cs.ko
+drivers/net/ethernet/8390/pcnet_cs.ko

@@ -1,0 +1,2 @@
+drivers/spmi/spmi.ko
+drivers/spmi/hisi-spmi-controller.ko

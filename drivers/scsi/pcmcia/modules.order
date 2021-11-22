@@ -1,0 +1,4 @@
+drivers/scsi/pcmcia/qlogic_cs.ko
+drivers/scsi/pcmcia/fdomain_cs.ko
+drivers/scsi/pcmcia/aha152x_cs.ko
+drivers/scsi/pcmcia/sym53c500_cs.ko

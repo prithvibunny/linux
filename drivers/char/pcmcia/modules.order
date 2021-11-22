@@ -1,0 +1,4 @@
+drivers/char/pcmcia/synclink_cs.ko
+drivers/char/pcmcia/cm4000_cs.ko
+drivers/char/pcmcia/cm4040_cs.ko
+drivers/char/pcmcia/scr24x_cs.ko

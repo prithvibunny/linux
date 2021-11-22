@@ -1,0 +1,6 @@
+net/bluetooth/bluetooth.ko
+net/bluetooth/rfcomm/rfcomm.ko
+net/bluetooth/bnep/bnep.ko
+net/bluetooth/cmtp/cmtp.ko
+net/bluetooth/hidp/hidp.ko
+net/bluetooth/bluetooth_6lowpan.ko

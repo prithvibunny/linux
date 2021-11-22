@@ -159,5 +159,15 @@ x509.genkey
 # Clang's compilation database file
 /compile_commands.json
 
+
 # Documentation toolchain
 sphinx_*/
+
+!cmpe283-1.mod.o
+!Module.symvers
+!cmpe283-1.ko
+!cmpe283-1.o
+!cmpe283-1.mod
+!cmpe283-1.mod.c
+!modules.order
+

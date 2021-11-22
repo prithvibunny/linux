@@ -1,0 +1,2 @@
+drivers/block/rnbd/rnbd-client.ko
+drivers/block/rnbd/rnbd-server.ko

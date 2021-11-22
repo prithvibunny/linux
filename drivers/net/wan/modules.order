@@ -1,0 +1,13 @@
+drivers/net/wan/hdlc.ko
+drivers/net/wan/hdlc_raw.ko
+drivers/net/wan/hdlc_raw_eth.ko
+drivers/net/wan/hdlc_cisco.ko
+drivers/net/wan/hdlc_fr.ko
+drivers/net/wan/hdlc_ppp.ko
+drivers/net/wan/hdlc_x25.ko
+drivers/net/wan/farsync.ko
+drivers/net/wan/lmc/lmc.ko
+drivers/net/wan/lapbether.ko
+drivers/net/wan/wanxl.ko
+drivers/net/wan/pci200syn.ko
+drivers/net/wan/pc300too.ko

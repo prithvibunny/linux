@@ -1,0 +1,9 @@
+drivers/rapidio/switches/tsi57x.ko
+drivers/rapidio/switches/idtcps.ko
+drivers/rapidio/switches/tsi568.ko
+drivers/rapidio/switches/idt_gen2.ko
+drivers/rapidio/switches/idt_gen3.ko
+drivers/rapidio/devices/tsi721_mport.ko
+drivers/rapidio/devices/rio_mport_cdev.ko
+drivers/rapidio/rio-scan.ko
+drivers/rapidio/rio_cm.ko

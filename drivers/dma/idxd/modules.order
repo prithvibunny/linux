@@ -1,0 +1,2 @@
+drivers/dma/idxd/idxd.ko
+drivers/dma/idxd/idxd_bus.ko

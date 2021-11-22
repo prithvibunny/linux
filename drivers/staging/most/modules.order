@@ -1,0 +1,3 @@
+drivers/staging/most/net/most_net.ko
+drivers/staging/most/video/most_video.ko
+drivers/staging/most/i2c/most_i2c.ko

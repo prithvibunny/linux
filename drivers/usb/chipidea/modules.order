@@ -1,0 +1,4 @@
+drivers/usb/chipidea/ci_hdrc.ko
+drivers/usb/chipidea/ci_hdrc_usb2.ko
+drivers/usb/chipidea/ci_hdrc_msm.ko
+drivers/usb/chipidea/ci_hdrc_pci.ko

@@ -1,0 +1,4 @@
+drivers/platform/chrome/wilco_ec/wilco_ec.ko
+drivers/platform/chrome/wilco_ec/wilco_ec_debugfs.ko
+drivers/platform/chrome/wilco_ec/wilco_ec_events.ko
+drivers/platform/chrome/wilco_ec/wilco_ec_telem.ko

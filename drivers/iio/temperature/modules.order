@@ -1,0 +1,11 @@
+drivers/iio/temperature/iqs620at-temp.ko
+drivers/iio/temperature/ltc2983.ko
+drivers/iio/temperature/hid-sensor-temperature.ko
+drivers/iio/temperature/maxim_thermocouple.ko
+drivers/iio/temperature/max31856.ko
+drivers/iio/temperature/mlx90614.ko
+drivers/iio/temperature/mlx90632.ko
+drivers/iio/temperature/tmp006.ko
+drivers/iio/temperature/tmp007.ko
+drivers/iio/temperature/tsys01.ko
+drivers/iio/temperature/tsys02d.ko

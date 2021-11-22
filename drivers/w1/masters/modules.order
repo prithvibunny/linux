@@ -1,0 +1,6 @@
+drivers/w1/masters/matrox_w1.ko
+drivers/w1/masters/ds2490.ko
+drivers/w1/masters/ds2482.ko
+drivers/w1/masters/ds1wm.ko
+drivers/w1/masters/w1-gpio.ko
+drivers/w1/masters/sgi_w1.ko

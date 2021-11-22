@@ -1,0 +1,7 @@
+drivers/vhost/vhost_net.ko
+drivers/vhost/vhost_scsi.ko
+drivers/vhost/vhost_vsock.ko
+drivers/vhost/vringh.ko
+drivers/vhost/vhost_vdpa.ko
+drivers/vhost/vhost.ko
+drivers/vhost/vhost_iotlb.ko

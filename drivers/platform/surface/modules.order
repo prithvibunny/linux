@@ -1,0 +1,5 @@
+drivers/platform/surface/surface3-wmi.ko
+drivers/platform/surface/surface3_button.ko
+drivers/platform/surface/surface3_power.ko
+drivers/platform/surface/surface_gpe.ko
+drivers/platform/surface/surfacepro3_button.ko

@@ -1,0 +1,16 @@
+drivers/atm/zatm.ko
+drivers/atm/uPD98402.ko
+drivers/atm/nicstar.ko
+drivers/atm/ambassador.ko
+drivers/atm/horizon.ko
+drivers/atm/iphase.ko
+drivers/atm/suni.ko
+drivers/atm/fore_200e.ko
+drivers/atm/eni.ko
+drivers/atm/idt77252.ko
+drivers/atm/solos-pci.ko
+drivers/atm/adummy.ko
+drivers/atm/atmtcp.ko
+drivers/atm/firestream.ko
+drivers/atm/lanai.ko
+drivers/atm/he.ko

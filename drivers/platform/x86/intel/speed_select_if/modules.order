@@ -1,0 +1,4 @@
+drivers/platform/x86/intel/speed_select_if/isst_if_common.ko
+drivers/platform/x86/intel/speed_select_if/isst_if_mmio.ko
+drivers/platform/x86/intel/speed_select_if/isst_if_mbox_pci.ko
+drivers/platform/x86/intel/speed_select_if/isst_if_mbox_msr.ko

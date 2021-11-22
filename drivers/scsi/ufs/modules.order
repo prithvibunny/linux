@@ -1,0 +1,8 @@
+drivers/scsi/ufs/ufshcd-core.ko
+drivers/scsi/ufs/tc-dwc-g210-pci.ko
+drivers/scsi/ufs/ufshcd-dwc.ko
+drivers/scsi/ufs/tc-dwc-g210.ko
+drivers/scsi/ufs/tc-dwc-g210-pltfrm.ko
+drivers/scsi/ufs/cdns-pltfrm.ko
+drivers/scsi/ufs/ufshcd-pci.ko
+drivers/scsi/ufs/ufshcd-pltfrm.ko

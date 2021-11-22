@@ -1,0 +1,16 @@
+net/dsa/dsa_core.ko
+net/dsa/tag_ar9331.ko
+net/dsa/tag_brcm.ko
+net/dsa/tag_dsa.ko
+net/dsa/tag_gswip.ko
+net/dsa/tag_hellcreek.ko
+net/dsa/tag_ksz.ko
+net/dsa/tag_lan9303.ko
+net/dsa/tag_mtk.ko
+net/dsa/tag_ocelot.ko
+net/dsa/tag_ocelot_8021q.ko
+net/dsa/tag_qca.ko
+net/dsa/tag_rtl4_a.ko
+net/dsa/tag_rtl8_4.ko
+net/dsa/tag_sja1105.ko
+net/dsa/tag_trailer.ko

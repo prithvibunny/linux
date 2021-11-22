@@ -1,0 +1,8 @@
+drivers/net/mdio/mdio-bcm-unimac.ko
+drivers/net/mdio/mdio-bitbang.ko
+drivers/net/mdio/mdio-cavium.ko
+drivers/net/mdio/mdio-gpio.ko
+drivers/net/mdio/mdio-i2c.ko
+drivers/net/mdio/mdio-mscc-miim.ko
+drivers/net/mdio/mdio-mvusb.ko
+drivers/net/mdio/mdio-thunder.ko

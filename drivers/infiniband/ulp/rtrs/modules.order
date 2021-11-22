@@ -1,0 +1,3 @@
+drivers/infiniband/ulp/rtrs/rtrs-core.ko
+drivers/infiniband/ulp/rtrs/rtrs-client.ko
+drivers/infiniband/ulp/rtrs/rtrs-server.ko

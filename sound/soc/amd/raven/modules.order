@@ -1,0 +1,3 @@
+sound/soc/amd/raven/snd-pci-acp3x.ko
+sound/soc/amd/raven/snd-acp3x-pcm-dma.ko
+sound/soc/amd/raven/snd-acp3x-i2s.ko

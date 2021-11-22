@@ -1,0 +1,3 @@
+drivers/misc/sgi-xp/xp.ko
+drivers/misc/sgi-xp/xpc.ko
+drivers/misc/sgi-xp/xpnet.ko

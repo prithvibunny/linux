@@ -1,0 +1,15 @@
+drivers/isdn/hardware/mISDN/hfcpci.ko
+drivers/isdn/hardware/mISDN/hfcmulti.ko
+drivers/isdn/hardware/mISDN/hfcsusb.ko
+drivers/isdn/hardware/mISDN/avmfritz.ko
+drivers/isdn/hardware/mISDN/speedfax.ko
+drivers/isdn/hardware/mISDN/mISDNinfineon.ko
+drivers/isdn/hardware/mISDN/w6692.ko
+drivers/isdn/hardware/mISDN/netjet.ko
+drivers/isdn/hardware/mISDN/mISDNipac.ko
+drivers/isdn/hardware/mISDN/mISDNisar.ko
+drivers/isdn/hardware/mISDN/isdnhdlc.ko
+drivers/isdn/capi/kernelcapi.ko
+drivers/isdn/mISDN/mISDN_core.ko
+drivers/isdn/mISDN/mISDN_dsp.ko
+drivers/isdn/mISDN/l1oip.ko

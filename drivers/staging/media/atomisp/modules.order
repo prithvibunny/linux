@@ -1,0 +1,10 @@
+drivers/staging/media/atomisp/i2c/ov5693/atomisp-ov5693.ko
+drivers/staging/media/atomisp/i2c/atomisp-mt9m114.ko
+drivers/staging/media/atomisp/i2c/atomisp-gc2235.ko
+drivers/staging/media/atomisp/i2c/atomisp-ov2722.ko
+drivers/staging/media/atomisp/i2c/atomisp-ov2680.ko
+drivers/staging/media/atomisp/i2c/atomisp-gc0310.ko
+drivers/staging/media/atomisp/i2c/atomisp-libmsrlisthelper.ko
+drivers/staging/media/atomisp/i2c/atomisp-lm3554.ko
+drivers/staging/media/atomisp/atomisp.ko
+drivers/staging/media/atomisp/pci/atomisp_gmin_platform.ko

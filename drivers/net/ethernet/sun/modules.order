@@ -1,0 +1,4 @@
+drivers/net/ethernet/sun/sunhme.ko
+drivers/net/ethernet/sun/sungem.ko
+drivers/net/ethernet/sun/cassini.ko
+drivers/net/ethernet/sun/niu.ko

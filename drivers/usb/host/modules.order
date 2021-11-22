@@ -1,0 +1,15 @@
+drivers/usb/host/oxu210hp-hcd.ko
+drivers/usb/host/isp116x-hcd.ko
+drivers/usb/host/xhci-pci.ko
+drivers/usb/host/xhci-pci-renesas.ko
+drivers/usb/host/xhci-plat-hcd.ko
+drivers/usb/host/sl811-hcd.ko
+drivers/usb/host/sl811_cs.ko
+drivers/usb/host/u132-hcd.ko
+drivers/usb/host/r8a66597-hcd.ko
+drivers/usb/host/fsl-mph-dr-of.ko
+drivers/usb/host/ehci-fsl.ko
+drivers/usb/host/bcma-hcd.ko
+drivers/usb/host/ssb-hcd.ko
+drivers/usb/host/fotg210-hcd.ko
+drivers/usb/host/max3421-hcd.ko

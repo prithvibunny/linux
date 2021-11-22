@@ -1,0 +1,15 @@
+drivers/usb/gadget/udc/udc-core.ko
+drivers/usb/gadget/udc/net2272.ko
+drivers/usb/gadget/udc/net2280.ko
+drivers/usb/gadget/udc/snps_udc_core.ko
+drivers/usb/gadget/udc/amd5536udc_pci.ko
+drivers/usb/gadget/udc/pxa27x_udc.ko
+drivers/usb/gadget/udc/goku_udc.ko
+drivers/usb/gadget/udc/r8a66597-udc.ko
+drivers/usb/gadget/udc/pch_udc.ko
+drivers/usb/gadget/udc/mv_udc.ko
+drivers/usb/gadget/udc/fotg210-udc.ko
+drivers/usb/gadget/udc/mv_u3d_core.ko
+drivers/usb/gadget/udc/gr_udc.ko
+drivers/usb/gadget/udc/bdc/bdc.ko
+drivers/usb/gadget/udc/max3420_udc.ko

@@ -1,0 +1,2 @@
+drivers/virt/vboxguest/vboxguest.ko
+drivers/virt/nitro_enclaves/nitro_enclaves.ko

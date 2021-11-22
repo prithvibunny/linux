@@ -25,12 +25,14 @@
 #include "trace.h"
 #include "pmu.h"
 
+
 /*
  * Unlike "struct cpuinfo_x86.x86_capability", kvm_cpu_caps doesn't need to be
  * aligned to sizeof(unsigned long) because it's not accessed via bitops.
  */
 u32 kvm_cpu_caps[NR_KVM_CPU_CAPS] __read_mostly;
 EXPORT_SYMBOL_GPL(kvm_cpu_caps);
+
 
 static u32 xstate_required_size(u64 xstate_bv, bool compacted)
 {
@@ -1230,16 +1232,57 @@ bool kvm_cpuid(struct kvm_vcpu *vcpu, u32 *eax, u32 *ebx,
 }
 EXPORT_SYMBOL_GPL(kvm_cpuid);
 
+u32 total_exits=0;
+EXPORT_SYMBOL(total_exits);
+u32 exit_p[69]={0};
+EXPORT_SYMBOL(exit_p);
+
 int kvm_emulate_cpuid(struct kvm_vcpu *vcpu)
 {
 	u32 eax, ebx, ecx, edx;
-
+        
 	if (cpuid_fault_enabled(vcpu) && !kvm_require_cpl(vcpu, 0))
 		return 1;
 
 	eax = kvm_rax_read(vcpu);
 	ecx = kvm_rcx_read(vcpu);
+
+      if(eax== 0x4fffffff){
+          eax= total_exits; 
+     }else if(eax==0x4ffffffd){
+
+        if(ecx >=0 && ecx <=69 && ecx !=35 && ecx !=38 && ecx !=42  && ecx != 65){
+            
+                    
+                    if(ecx!=3 && ecx!=4 && ecx!=5 && ecx!=6 && ecx!=11 && ecx!=34 && ecx!=33 && ecx!=51 && ecx<63){
+                    
+                      eax = exit_p[(int)ecx];
+                    }else{
+                    
+                   eax= 0x00000000;
+                   ebx= 0x00000000;
+                   ecx= 0x00000000;
+                   edx= 0x00000000; 
+                    }
+                    
+                     
+                 
+
+ 	}else{   
+ 		
+ 	           eax= 0x00000000;
+                   ebx= 0x00000000;
+                   ecx= 0x00000000;
+                   edx= 0xffffffff; 
+ 
+ 	}
+   }
+    else{
 	kvm_cpuid(vcpu, &eax, &ebx, &ecx, &edx, false);
+      }
+
+
+
 	kvm_rax_write(vcpu, eax);
 	kvm_rbx_write(vcpu, ebx);
 	kvm_rcx_write(vcpu, ecx);

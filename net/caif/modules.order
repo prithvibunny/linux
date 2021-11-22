@@ -1,0 +1,4 @@
+net/caif/caif.ko
+net/caif/chnl_net.ko
+net/caif/caif_socket.ko
+net/caif/caif_usb.ko

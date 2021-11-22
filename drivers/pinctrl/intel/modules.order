@@ -1,0 +1,15 @@
+drivers/pinctrl/intel/pinctrl-lynxpoint.ko
+drivers/pinctrl/intel/pinctrl-alderlake.ko
+drivers/pinctrl/intel/pinctrl-broxton.ko
+drivers/pinctrl/intel/pinctrl-cannonlake.ko
+drivers/pinctrl/intel/pinctrl-cedarfork.ko
+drivers/pinctrl/intel/pinctrl-denverton.ko
+drivers/pinctrl/intel/pinctrl-elkhartlake.ko
+drivers/pinctrl/intel/pinctrl-emmitsburg.ko
+drivers/pinctrl/intel/pinctrl-geminilake.ko
+drivers/pinctrl/intel/pinctrl-icelake.ko
+drivers/pinctrl/intel/pinctrl-jasperlake.ko
+drivers/pinctrl/intel/pinctrl-lakefield.ko
+drivers/pinctrl/intel/pinctrl-lewisburg.ko
+drivers/pinctrl/intel/pinctrl-sunrisepoint.ko
+drivers/pinctrl/intel/pinctrl-tigerlake.ko

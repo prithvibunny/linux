@@ -1,0 +1,4 @@
+drivers/leds/flash/leds-as3645a.ko
+drivers/leds/flash/leds-lm3601x.ko
+drivers/leds/flash/leds-rt8515.ko
+drivers/leds/flash/leds-sgm3140.ko

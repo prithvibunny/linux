@@ -1,0 +1,6 @@
+drivers/rpmsg/rpmsg_core.ko
+drivers/rpmsg/rpmsg_char.ko
+drivers/rpmsg/rpmsg_ns.ko
+drivers/rpmsg/qcom_glink.ko
+drivers/rpmsg/qcom_glink_rpm.ko
+drivers/rpmsg/virtio_rpmsg_bus.ko

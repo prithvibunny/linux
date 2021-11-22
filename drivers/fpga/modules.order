@@ -1,0 +1,17 @@
+drivers/fpga/fpga-mgr.ko
+drivers/fpga/altera-cvp.ko
+drivers/fpga/altera-ps-spi.ko
+drivers/fpga/machxo2-spi.ko
+drivers/fpga/xilinx-spi.ko
+drivers/fpga/altera-pr-ip-core.ko
+drivers/fpga/fpga-bridge.ko
+drivers/fpga/altera-freeze-bridge.ko
+drivers/fpga/xilinx-pr-decoupler.ko
+drivers/fpga/fpga-region.ko
+drivers/fpga/dfl.ko
+drivers/fpga/dfl-fme.ko
+drivers/fpga/dfl-fme-mgr.ko
+drivers/fpga/dfl-fme-br.ko
+drivers/fpga/dfl-fme-region.ko
+drivers/fpga/dfl-afu.ko
+drivers/fpga/dfl-pci.ko

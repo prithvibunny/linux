@@ -1,0 +1,11 @@
+drivers/clk/xilinx/xlnx_vcu.ko
+drivers/clk/clk-cdce706.ko
+drivers/clk/clk-cs2000-cp.ko
+drivers/clk/clk-max9485.ko
+drivers/clk/clk-palmas.ko
+drivers/clk/clk-pwm.ko
+drivers/clk/clk-si5341.ko
+drivers/clk/clk-si5351.ko
+drivers/clk/clk-si544.ko
+drivers/clk/clk-twl6040.ko
+drivers/clk/clk-wm831x.ko

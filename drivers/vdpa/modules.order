@@ -1,0 +1,5 @@
+drivers/vdpa/mlx5/mlx5_vdpa.ko
+drivers/vdpa/vdpa.ko
+drivers/vdpa/vdpa_sim/vdpa_sim.ko
+drivers/vdpa/vdpa_sim/vdpa_sim_net.ko
+drivers/vdpa/ifcvf/ifcvf.ko

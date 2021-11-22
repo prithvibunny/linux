@@ -1,0 +1,3 @@
+sound/pci/rme9652/snd-rme9652.ko
+sound/pci/rme9652/snd-hdsp.ko
+sound/pci/rme9652/snd-hdspm.ko

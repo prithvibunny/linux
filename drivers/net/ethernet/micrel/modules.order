@@ -1,0 +1,5 @@
+drivers/net/ethernet/micrel/ks8842.ko
+drivers/net/ethernet/micrel/ks8851_common.ko
+drivers/net/ethernet/micrel/ks8851_spi.ko
+drivers/net/ethernet/micrel/ks8851_par.ko
+drivers/net/ethernet/micrel/ksz884x.ko
