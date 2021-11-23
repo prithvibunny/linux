@@ -25,9 +25,9 @@ Steps Used To Build And Complete This Assignment 1:
 
 PreRequirement: Use a virtualization enabled machine with atleast 100 GB or more space.
 
-Step 1: First of all, Get VmWare Fusion setup installed.
+Step 1: First of all, Get VmWare Workstation setup installed.
 
-Step 2: Then install Linux Ubuntu on VMware Fusion. 
+Step 2: Then install Linux Ubuntu on VMware Workstation. 
 
 Step 3: Then install Git
 
