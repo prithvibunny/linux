@@ -1236,6 +1236,10 @@ u32 total_exits=0;
 EXPORT_SYMBOL(total_exits);
 u32 exit_p[69]={0};
 EXPORT_SYMBOL(exit_p);
+u32 total_time;
+EXPORT_SYMBOL(total_time);
+u32 total_time_per_reason[69];
+EXPORT_SYMBOL(total_time_per_reason);
 
 int kvm_emulate_cpuid(struct kvm_vcpu *vcpu)
 {
@@ -1269,13 +1273,46 @@ int kvm_emulate_cpuid(struct kvm_vcpu *vcpu)
                  
 
  	}else{   
- 		
+
  	           eax= 0x00000000;
                    ebx= 0x00000000;
                    ecx= 0x00000000;
                    edx= 0xffffffff; 
  
  	}
+   } else if(eax== 0x4ffffffe){
+   		ebx = (total_time >> 32);
+               ecx = (total_time & 0xffffffff);
+   		
+   }else if(eax==0x4ffffffc){
+   		 if(ecx >=0 && ecx <=69 && ecx !=35 && ecx !=38 && ecx !=42  && ecx != 65){
+            
+
+                    if(ecx!=3 && ecx!=4 && ecx!=5 && ecx!=6 && ecx!=11 && ecx!=34 && ecx!=33 && ecx!=51 && ecx<63){
+                    
+                      ebx = (total_time_per_reason[(int)ecx] >> 32);
+               	ecx = (total_time_per_reason[(int)ecx] & 0xffffffff);
+                    }else{
+                    
+                   eax= 0x00000000;
+                   ebx= 0x00000000;
+                   ecx= 0x00000000;
+                   edx= 0x00000000; 
+                    }
+                    
+                     
+                 
+
+ 	}else{   
+ 		// for exit types out of range 0 to 69
+ 	           eax= 0x00000000;
+                   ebx= 0x00000000;
+                   ecx= 0x00000000;
+                   edx= 0xffffffff; 
+ 
+ 	}
+   		
+   
    }
     else{
 	kvm_cpuid(vcpu, &eax, &ebx, &ecx, &edx, false);

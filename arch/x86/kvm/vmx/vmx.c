@@ -6096,10 +6096,23 @@ unexpected_vmexit:
 	return 0;
 }
 
+extern u32 total_time;
+extern u32 total_time_per_reason[69];
+
 static int vmx_handle_exit(struct kvm_vcpu *vcpu, fastpath_t exit_fastpath)
 {
-	int ret = __vmx_handle_exit(vcpu, exit_fastpath);
 
+	struct vcpu_vmx *vmx = to_vmx(vcpu);
+	union vmx_exit_reason exit_reason = vmx->exit_reason;
+	u32 per = exit_reason.basic;
+	 uint64_t startTime = rdtsc();
+	int ret = __vmx_handle_exit(vcpu, exit_fastpath);
+	uint64_t endTime = rdtsc();
+	
+	total_time = total_time + endTime - startTime;
+	
+	total_time_per_reason[(int)per] = total_time_per_reason[(int)per] +  endTime - startTime;
+	
 	/*
 	 * Exit to user space when bus lock detected to inform that there is
 	 * a bus lock in guest.
