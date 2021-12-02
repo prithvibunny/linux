@@ -1281,7 +1281,7 @@ int kvm_emulate_cpuid(struct kvm_vcpu *vcpu)
  
  	}
    } else if(eax== 0x4ffffffe){
-   		ebx = (total_time >> 32);
+   		ebx = (((long)total_time) >> 32);
                ecx = (total_time & 0xffffffff);
    		
    }else if(eax==0x4ffffffc){
@@ -1290,7 +1290,7 @@ int kvm_emulate_cpuid(struct kvm_vcpu *vcpu)
 
                     if(ecx!=3 && ecx!=4 && ecx!=5 && ecx!=6 && ecx!=11 && ecx!=34 && ecx!=33 && ecx!=51 && ecx<63){
                     
-                      ebx = (total_time_per_reason[(int)ecx] >> 32);
+                      ebx = (((long)total_time_per_reason[(int)ecx]) >> 32);
                	ecx = (total_time_per_reason[(int)ecx] & 0xffffffff);
                     }else{
                     
